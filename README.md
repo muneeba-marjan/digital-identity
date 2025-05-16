@@ -21,11 +21,14 @@ This project is a decentralized application (DApp) that leverages **Ethereum blo
 
 contracts/
 └── IdentityManagement.sol # Main smart contract
+
 frontend/
 ├── index.html # UI
 └── app.js # Frontend logic using ethers.js
+
 scripts/
 └── deploy.js # Deployment script
+
 test/
 └── test.js # Contract tests
 
