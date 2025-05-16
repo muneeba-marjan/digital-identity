@@ -19,7 +19,7 @@ This project is a decentralized application (DApp) that leverages **Ethereum blo
 
 ## 📁 Project Structure
 
-ontracts/
+contracts/
 └── IdentityManagement.sol # Main smart contract
 frontend/
 ├── index.html # UI
